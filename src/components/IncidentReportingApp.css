@@ -1,0 +1,57 @@
+/* IncidentReportingAppStyles.css */
+
+.incident-reporting-app-container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  .incident-reporting-app-title {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .incident-reporting-app-form {
+    margin-bottom: 20px;
+  }
+  
+  .incident-reporting-app-label {
+    font-weight: bold;
+  }
+  
+  .incident-reporting-app-input,
+  .incident-reporting-app-textarea,
+  .incident-reporting-app-datetime-input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  .incident-reporting-app-button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .incident-reporting-app-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .incident-reporting-app-ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .incident-reporting-app-li {
+    margin-bottom: 20px;
+  }
+  
+  .incident-reporting-app-strong {
+    font-weight: bold;
+  }
+  
